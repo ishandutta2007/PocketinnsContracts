@@ -29,3 +29,10 @@ The PINNS token auction will follow the **reverse Dutch Auction**, in which an i
 * contributors will need to claim their tokens after **DutchAuction** has ended. To claim tokens contributor needs to call function **claimTokensICO()**,by passing the contributor address as parameter.
 * after the ICO ends, owner of the contract sends the GoodWill tokens to **DutchAuction** contract and call function **startGoodwillDistribution()**.
 * to claim Goodwill tokens as per the tokens bought during the first Four days of ICO, contributor needs to call **claimGoodwillTokens()**, by passing the contributor address as parameter. 
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
